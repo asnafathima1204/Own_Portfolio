@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='py-3 px-2 bg-gray-300 dark:bg-gray-900 text-blue-400 h-auto'>
         <div>
             <ul className='flex justify-center space-x-6'>
-                <li className=''>a</li>
+                <li className=''>ab</li>
                 <li className=''>a</li>
                 <li className=''>a</li>
             </ul>
