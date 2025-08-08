@@ -7,5 +7,9 @@ export default defineConfig({
     react(),          // only if React
     tailwindcss(),    // add Tailwind plugin
   ],
+  preview: {
+    allowedHosts: ['own-portfolio-hg6g.onrender.com']
+  }
 })
+
 
